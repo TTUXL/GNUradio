@@ -1,1 +1,1 @@
-[安装USRP步骤](http://digital.ni.com/public.nsf/allkb/825823A54D291719862580D4003410B8)
+[安装USRP步骤](https://www.evernote.com/l/AdyZfKBzTuFJ0JQZomLcA6S4YyiPT5UTceg)
